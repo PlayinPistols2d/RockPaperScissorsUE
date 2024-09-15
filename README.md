@@ -13,6 +13,9 @@ This is a project I built to practice **UE Sessions** and **Online Subsystem Ste
 ![RPS_SingleplayerPreview](https://github.com/user-attachments/assets/6fbe1727-6b8f-40e2-9c04-5c006f57c27d)
 - **Lobby Overhaul**: Intuitive lobby system for a seamless multiplayer experience.
 
+## Note from the Author
+This build is published as a **Debug Game** build since this is a non-commercial project created for study purposes. The game does not have a unique **Steam App ID**, which prevents it from running as intended in a shipping build. To enable Steam functionality, the default **Steam test App ID** was used.
+
 ## Download
 You can download the recent build here - [releases/latest](https://github.com/PlayinPistols2d/RockPaperScissorsUE/releases/latest)
 
