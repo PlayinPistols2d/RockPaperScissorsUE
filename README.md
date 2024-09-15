@@ -8,7 +8,7 @@ This is a project I built to practice **UE Sessions** and **Online Subsystem Ste
 - **Multiplayer via Steam**: Challenge your friends in a 1 vs 1 match through Steam. <br/>
 ![RPS_MultiplayerPreview](https://github.com/user-attachments/assets/5f196c4b-0a19-499e-88a7-506f4a4c08df)
 - **In-game Chat**: Communicate with your opponent during the match via a built-in chat system. <br/>
-![RPS_ChatPreview](https://github.com/user-attachments/assets/3d7bb147-2c70-492d-b87c-8ee568cec9ed)
+![RPS_ChatPreview](https://github.com/user-attachments/assets/7fc1fe95-c363-4e8e-b0ab-003e64980588)
 - **Single-player**: Play against a bot. <br/>
 ![RPS_SingleplayerPreview](https://github.com/user-attachments/assets/6fbe1727-6b8f-40e2-9c04-5c006f57c27d)
 - **Lobby Overhaul**: Intuitive lobby system for a seamless multiplayer experience.
